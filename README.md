@@ -16,3 +16,9 @@ Alteração via PR
 - Porta: 8080
 - Timeout: 30s
 - Max connections: 1000
+
+## Sistema de Monitoramento v2.0
+- Dashboard de métricas em tempo real
+- Alertas automatizados por email  
+- Logs centralizados
+- Health checks automáticos
