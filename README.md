@@ -18,8 +18,16 @@ Alteração via PR
 - Timeout: 30s
 - Max connections: 1000
 
+
+## Sistema de Monitoramento v2.0
+- Dashboard de métricas em tempo real
+- Alertas automatizados por email  
+- Logs centralizados
+- Health checks automáticos
+=======
 ## Instruções de Deploy v2
 1. Executar script `deploy-v2.sh`
 2. Verificar logs em `/var/log/deploy.log`
 3. Validar endpoints de saúde
 4 . Health check: /health
+
